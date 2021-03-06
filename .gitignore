@@ -6,7 +6,7 @@
 .idea
 .gradle
 gradlew
-gradle.bar
+gradle.bat
 
 # BlueJ files
 *.ctxt
