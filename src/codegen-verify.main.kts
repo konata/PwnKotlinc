@@ -10,5 +10,6 @@ fun main(args: Array<String>) {
     val tracks = flow<String> {}
     val invalidateHints = flow<String> {}
     combine(tracks, invalidateHints, String::eliminateUnknownLiteral)
+}
 
 
